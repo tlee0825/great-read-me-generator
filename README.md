@@ -1,2 +1,2 @@
 # great-read-me-generator
-read me generator
+Great Read Me Generator
